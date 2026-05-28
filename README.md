@@ -3,7 +3,7 @@
 
 Assistente Virtual Inteligente de Saúde e Bem-Estar utilizando Inteligência Artificial Generativa.
 
-<p align="center"> <img src="assets/banner.png" width="100%"> </p> <p align="center"> <img src="https://img.shields.io/badge/Python-3.11-blue"> <img src="https://img.shields.io/badge/OpenAI-GPT-green"> <img src="https://img.shields.io/badge/Streamlit-WebApp-red"> <img src="https://img.shields.io/badge/Status-Completo-success"> </p>
+<p align="center"> <img src="assets/interface-preview.png" width="100%"> </p> <p align="center"> <img src="https://img.shields.io/badge/Python-3.11-blue"> <img src="https://img.shields.io/badge/OpenAI-GPT-green"> <img src="https://img.shields.io/badge/Streamlit-WebApp-red"> <img src="https://img.shields.io/badge/Status-Completo-success"> </p>
 ---
 
 # 📌 Sobre o Projeto
